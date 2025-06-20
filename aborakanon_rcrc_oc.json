@@ -1,0 +1,2 @@
+proxies:
+- {'name': 'Vmess1', 'type': 'vmess', 'server': 'quiz.int.vidio.com', 'port': 443, 'uuid': 'f6b8fce6-3e24-4317-a00d-267790514cad', 'alterId': '0', 'cipher': 'auto', 'tls': true, 'skip-cert-verify': true, 'servername': 'us3.natanvpn.store', 'network': 'ws', 'ws-opts': {'path': '/whatever', 'headers': {'Host': 'us3.natanvpn.store'}, 'mux': false}, 'udp': true}
